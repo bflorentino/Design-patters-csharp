@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\ITLA\4to Cuatrimesre Sept-Dic 2021\Programacion II Juan Rosario\Programas C#\RRHH APP\bin\Debug\netcoreapp3.1\RRHH APP.exe
+C:\Users\HP\Documents\ITLA\4to Cuatrimesre Sept-Dic 2021\Programacion II Juan Rosario\Programas C#\RRHH APP\bin\Debug\netcoreapp3.1\RRHH APP.deps.json
+C:\Users\HP\Documents\ITLA\4to Cuatrimesre Sept-Dic 2021\Programacion II Juan Rosario\Programas C#\RRHH APP\bin\Debug\netcoreapp3.1\RRHH APP.runtimeconfig.json
+C:\Users\HP\Documents\ITLA\4to Cuatrimesre Sept-Dic 2021\Programacion II Juan Rosario\Programas C#\RRHH APP\bin\Debug\netcoreapp3.1\RRHH APP.runtimeconfig.dev.json
+C:\Users\HP\Documents\ITLA\4to Cuatrimesre Sept-Dic 2021\Programacion II Juan Rosario\Programas C#\RRHH APP\bin\Debug\netcoreapp3.1\RRHH APP.dll
+C:\Users\HP\Documents\ITLA\4to Cuatrimesre Sept-Dic 2021\Programacion II Juan Rosario\Programas C#\RRHH APP\bin\Debug\netcoreapp3.1\RRHH APP.pdb
+C:\Users\HP\Documents\ITLA\4to Cuatrimesre Sept-Dic 2021\Programacion II Juan Rosario\Programas C#\RRHH APP\obj\Debug\netcoreapp3.1\RRHH APP.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\ITLA\4to Cuatrimesre Sept-Dic 2021\Programacion II Juan Rosario\Programas C#\RRHH APP\obj\Debug\netcoreapp3.1\RRHH APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ITLA\4to Cuatrimesre Sept-Dic 2021\Programacion II Juan Rosario\Programas C#\RRHH APP\obj\Debug\netcoreapp3.1\RRHH APP.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ITLA\4to Cuatrimesre Sept-Dic 2021\Programacion II Juan Rosario\Programas C#\RRHH APP\obj\Debug\netcoreapp3.1\RRHH APP.AssemblyInfo.cs
+C:\Users\HP\Documents\ITLA\4to Cuatrimesre Sept-Dic 2021\Programacion II Juan Rosario\Programas C#\RRHH APP\obj\Debug\netcoreapp3.1\RRHH APP.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ITLA\4to Cuatrimesre Sept-Dic 2021\Programacion II Juan Rosario\Programas C#\RRHH APP\obj\Debug\netcoreapp3.1\RRHH APP.dll
+C:\Users\HP\Documents\ITLA\4to Cuatrimesre Sept-Dic 2021\Programacion II Juan Rosario\Programas C#\RRHH APP\obj\Debug\netcoreapp3.1\RRHH APP.pdb
+C:\Users\HP\Documents\ITLA\4to Cuatrimesre Sept-Dic 2021\Programacion II Juan Rosario\Programas C#\RRHH APP\obj\Debug\netcoreapp3.1\RRHH APP.genruntimeconfig.cache
